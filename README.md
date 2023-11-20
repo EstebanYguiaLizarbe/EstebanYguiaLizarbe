@@ -20,7 +20,7 @@ No solo disfruto de la programacion por la cantidad de demanda que hay en el mer
 me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas 
 soluciones a problemas que creíamos ya resueltos.
 
-## ¿Qué tecnologías uso?
+## ¿Qué tecnologías uso? :fire:
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
 para despegar 🚀 
 Por lo que las principales tecnologías que manejo son: 
@@ -39,7 +39,7 @@ Entre otras herramientas, también tengo conocimiento en **Photoshop**, **Illust
 diseño visual de material
 
 
-### No dudes en contactarme! 
+### No dudes en contactarme! :speech_balloon:
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
 <a href="https://www.linkedin.com/in/esteban-angel-jeff-yguia-lizarbe-282079240/">
